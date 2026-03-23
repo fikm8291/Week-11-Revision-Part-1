@@ -80,6 +80,17 @@
 
 
 # -------------------------------------------
+# SAVING YOUR WORK
+# -------------------------------------------
+# You have completed the Core Tasks. Let's save.
+# 1. Save this file.
+# 2. Use Git in the terminal to:
+#    - Stage (i.e. add) your changes.
+#    - Commit with a message.
+#    - Push your work to the main branch.
+# -------------------------------------------
+
+# -------------------------------------------
 # EXTENSION ACTIVITIES
 # -------------------------------------------
 
@@ -157,6 +168,17 @@
 
 
 # -------------------------------------------
+# SAVING YOUR WORK
+# -------------------------------------------
+# You have completed the Extensions. Let's save.
+# 1. Save this file.
+# 2. Use Git in the terminal to:
+#    - Stage your changes.
+#    - Commit with a message.
+#    - Push your work to the main branch.
+# -------------------------------------------
+
+# -------------------------------------------
 # ADVANCED: The Manchester Weather Analyst
 # -------------------------------------------
 # CONCEPT: 
@@ -176,3 +198,15 @@
 # 5. Return all three calculated values and print them in a clean summary.
 
 # Write your code below:
+
+
+# -------------------------------------------
+# SAVING YOUR WORK
+# -------------------------------------------
+# You have completed the Advanced Activity. Let's save.
+# 1. Save this file.
+# 2. Use Git in the terminal to:
+#    - Stage your changes.
+#    - Commit with a message.
+#    - Push your final work to the main branch.
+# -------------------------------------------
