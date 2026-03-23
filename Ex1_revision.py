@@ -1,5 +1,5 @@
 # -------------------------------------------
-# Exercise: The Manchester Program
+# Exercise 1: The Manchester Program
 # -------------------------------------------
 #
 # GOAL: 
